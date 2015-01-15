@@ -1,5 +1,6 @@
 # Slide cho Cloud Computing
-Các ghi chú để làm slide cho module 01: Tổng quan về Cloud Computing 
+Các ghi chú để làm slide cho module 01: Tổng quan về  điện toán đám mây  và ảo hóa
+
 ## Nội dung trong slide
 Các kiến thức cần tìm hiểu và truyền tải
 * Khái niệm về Cloud Computing (dựa theo tài liệu của NIST) 
