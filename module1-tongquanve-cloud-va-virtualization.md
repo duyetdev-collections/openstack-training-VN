@@ -1,4 +1,4 @@
-# Slide cho Cloud Computing
+# Slide giới thiệu về Điện toán đám mây và ảo hóa
 Các ghi chú để làm slide cho module 01: Tổng quan về  điện toán đám mây  và ảo hóa
 
 ## Nội dung trong slide
