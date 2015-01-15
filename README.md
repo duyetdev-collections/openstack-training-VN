@@ -7,19 +7,27 @@ Dự án đào tạo OpenStack tại VN
 ### Lịch sử của dự án
 Dùng để update tiến độ và các thay đổi chính trong dự án
 
-## Mục tiêu:
+### Mục tiêu:
 Xây dựng ra giáo trình, slide, outline để: 
 
 * Đào tạo các kiến thức cơ bản nhất trong OpenStack.
 * Đào tạo OpenStack ở mức vận hành, triển khai.
 * Đào tạo cách dựng LAB và cách tìm hiểu tài liệu để chủ động nghiên cứ.
 
-## Yêu cầu: 
+### Yêu cầu: 
 * Cơ bản về Linux (kiến thức tương đương LPI101 và LPI 102).
 * Cơ bản về Network, kiến thức trong mô hình OSI, TCP/IP (tương đương CCNA).
 * Lap hoặc PC đủ mạnh để LAB, khuyến cáo 8GB RAM
 
-# Tài liệu tham khảo
+# Danh mục các slide cần làm
+* Module 01: Tổng quan về Cloud Computing, ảo hóa
+* Module 02: Giới thiệu về OpenStack (vai trò, kiến trúc, các thành phần, mô hình chuẩn)
+* Module 03: Giới thiệu về Keystone (vai trò, các thành phần, workflow, cài đặt và vận hành, demo)
+* Module 04: Giới thiệu về Glance (vai trò, các thành phần, workflow, cài đặt và vận hành, demo)
+* Module 05: Giới thiệu về Nova (vai trò, các thành phần, workflow, cài đặt và vận hành, demo)
+* `Còn tiếp`
+
+### Tài liệu tham khảo
 * Link tài liệu 1:
 * Link tài liệu 2:
 
