@@ -20,7 +20,7 @@ Xây dựng ra giáo trình, slide, outline để:
 * Cơ bản về Network, kiến thức trong mô hình OSI, TCP/IP (tương đương CCNA).
 * Lap hoặc PC đủ mạnh để LAB, khuyến cáo 8GB RAM
 
-# Danh mục các slide cần làm
+### Danh mục các slide cần làm
 * Module 01: Tổng quan về Cloud Computing, ảo hóa
 * Module 02: Giới thiệu về OpenStack (vai trò, kiến trúc, các thành phần, mô hình chuẩn)
 * Module 03: Giới thiệu về Keystone (vai trò, các thành phần, workflow, cài đặt và vận hành, demo)
