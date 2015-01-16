@@ -25,10 +25,14 @@ Xây dựng ra giáo trình, slide, outline để:
 * Module 03: Giới thiệu về Keystone (vai trò, các thành phần, workflow, cài đặt và vận hành, demo)
 * Module 04: Giới thiệu về Glance (vai trò, các thành phần, workflow, cài đặt và vận hành, demo)
 * Module 05: Giới thiệu về Nova (vai trò, các thành phần, workflow, cài đặt và vận hành, demo)
+* Module 06: Giới thiệu về Neutron (vai trò, các thành phần, workflow, cài đặt và vận hành, demo)
+* Module 07: Giới thiệu về Cinder (vai trò, các thành phần, workflow, cài đặt và vận hành, demo)
+* Module 08: Giới thiệu về Swift (vai trò, các thành phần, workflow, cài đặt và vận hành, demo)
+* 
 * `Còn tiếp`
 
 ### Tài liệu tham khảo
-* Link tài liệu 1:
-* Link tài liệu 2:
+* http://cloudn1n3.blogspot.com/2014_12_01_archive.html
+* http://docs.openstack.org/training-guides/content/
 
 
