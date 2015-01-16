@@ -11,6 +11,6 @@ Phác thảo cấu trúc của slide trình bày về neutron
 
 
 ### Tài liệu tham khảo
-[OpenStack Neutron Havana Overview - Oct 2013](http://www.slideshare.net/emaganap/open-stack-overview-meetups-oct-2013)
-[Openstack Basic with Neutron](http://www.slideshare.net/KwonSunBae/openstack-basic-rev05)
-[Introduction to Neutron - amuller@redhat.com ](http://assafmuller.files.wordpress.com/2014/05/neutron.pdf)
+* [OpenStack Neutron Havana Overview - Oct 2013](http://www.slideshare.net/emaganap/open-stack-overview-meetups-oct-2013)
+* [Openstack Basic with Neutron](http://www.slideshare.net/KwonSunBae/openstack-basic-rev05)
+* [Introduction to Neutron - amuller@redhat.com ](http://assafmuller.files.wordpress.com/2014/05/neutron.pdf)
