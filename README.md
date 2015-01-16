@@ -6,6 +6,7 @@ Dự án đào tạo OpenStack tại VN
 
 ### Lịch sử của dự án
 Dùng để update tiến độ và các thay đổi chính trong dự án
+* 16/01/2015 - Tạo dự án - CongTo
 
 ### Mục tiêu:
 Xây dựng ra giáo trình, slide, outline để: 
