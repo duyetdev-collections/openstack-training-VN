@@ -37,3 +37,4 @@ Cần nói được hoặc phải hiểu được
 * [Introduction to Neutron - amuller@redhat.com ](http://assafmuller.files.wordpress.com/2014/05/neutron.pdf)
 * [OpenStack Networking](http://www.slideshare.net/shakhat/openstack-networking)
 * [Các slide về Neutron](http://www.slideshare.net/markmcclain/presentations)
+* [Tổng hợp các slide về neutron từ VMware](http://www.slideshare.net/yfauser/presentations)
