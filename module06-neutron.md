@@ -27,6 +27,7 @@ Cần nói được hoặc phải hiểu được
 * Vai trò của NEUTRON trong OpenStack
 * Các khái niệm trong NEUTRON (Plugin, Agent ....)
 * Các use case mà NEUTRON có thể triển khai.
+* Mô hình khi OpenStack khi lựa chọn NEUTRON để triển khai
 * Các thành phần NEUTRON được cài đặt trên các node.
 * 
 
