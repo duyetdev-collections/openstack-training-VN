@@ -10,10 +10,16 @@ Dùng để update tiến độ và các thay đổi chính trong dự án
 
 ### Mục tiêu:
 Xây dựng ra giáo trình, slide, outline để: 
-
 * Đào tạo các kiến thức cơ bản nhất trong OpenStack.
 * Đào tạo OpenStack ở mức vận hành, triển khai.
-* Đào tạo cách dựng LAB và cách tìm hiểu tài liệu để chủ động nghiên cứ.
+* Đào tạo cách dựng LAB và cách tìm hiểu tài liệu để chủ động nghiên cứu.
+
+### ĐỐI TƯỢNG
+Tài liệu & dự án phục vụ
+* Các bạn mới bắt đầu tìm hiểu OpenStack
+* Các bạn đang là sysad/networker/devops
+* Các bạn trong các nhóm lập trình các ứng dụng để làm việc với OpenStack (tùy biến dashboard - portal, soft client để thao tác với OpenStack). 
+* Các bạn cần có các kiến thức cơ bản để phối hợp với các nhóm network, system, storage trong OpenStack.
 
 ### Yêu cầu: 
 * Cơ bản về Linux (kiến thức tương đương LPI101 và LPI 102).
