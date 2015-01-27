@@ -21,3 +21,10 @@ Phác thảo cấu trúc của slide trình bày về nova
 * Sự liên hệ giữa các thành phần trong nova và với các project khác
 * Cách cài đặt, cấu hình
 * Một số kỹ thuật nâng cao: boot từ volume, Live Migrate, Evacuate,...
+
+### Các chú ý khi làm tài liệu
+Cần nói được hoặc phải hiểu được
+* Hiều được cơ chế hoạt động của KVM
+* Vai trò của Nova trong OpenStack
+* Các thành phần của Nova và mối liên hệ giữa chúng
+* Mối liên hệ giữa Nova và KVM
