@@ -1,4 +1,4 @@
-# openstack-trainning-VN
+# openstack-training-VN
 Dự án đào tạo OpenStack tại VN
 
 * Git tập hơp về kế hoạch đào tạo OpenStack tại Việt Nam
