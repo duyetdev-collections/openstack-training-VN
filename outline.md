@@ -1,17 +1,19 @@
 # Khung chương trình 
-## Network
+## 1. Network
 ### TCP/IP, OSI
 - Mô hình OSI, vai trò từng layer
 - Lý thuyết TCP/IP
+- Địa chỉ IPv4, IPv6
 - Gói tin IPv4, IPv4 Header
 - VLAN
 - Static Router
 - NAT
 
 
-## LINUX 
+## 2. LINUX 
 ### Cơ bản
 Sử dụng distro là Ubuntu 14.04
+- Sơ lược về các dòng linux, phân biệt linux và unix
 - Cài đặt OS
 - Setup hostname, change password
 - Các đặt IP tĩnh, động cho card mạng, thêm nhiều card mạng
@@ -40,6 +42,7 @@ Sử dụng distro là Ubuntu 14.04
 - Giao thức ARP
 - Giao thức SSH
 - Giao thức SYSLOG
+- Giao thức ISCSI, NFS
 
 
 ### Dịch vụ cơ bản
@@ -61,7 +64,22 @@ Sử dụng distro là Ubuntu 14.04
 - HA: Haproxy
 - KVM
 - Test tải web:
+- Storage: Vsftp, Glusterfs
 
 #### Khác
 - Công cụ cấu hình tập trung: Ansible, SaltStack
+
+## 3. Phần cứng
+- Kiến trúc ổ đĩa
+- Kiến trúc RAM
+- Kiến trúc CPU
+
+## 3. Lập trình
+- Python
+
+## 5. Các công cụ khác
+- Mindjet
+- Viso, draw.io
+- Slack
+- Trello
 
