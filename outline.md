@@ -10,12 +10,38 @@
 ### Cơ bản
 - Cài đặt OS
 - Setup hostname, change password
-- Các đặt IP tĩnh, động
+- Các đặt IP tĩnh, động cho card mạng, thêm nhiều card mạng
 - Thêm sửa xóa user
 - Phân quyền file và thư mục
 - Cách sửa file
 - Cách sử dụng WINSCP
 
 ### Lệnh
+#### Lệnh xem tài nguyên
+#### Lệnh xem phiên bản OS, Kernel
+#### Lệnh về IP
+#### Lệnh về làm việc với ký tự và chuỗi
 
-### Dịch vụ
+
+
+### Lý thuyết
+- Giao thức PING
+- Giao thức DNS
+- Giao thức FTP
+- Giao thức DNS
+
+
+### Dịch vụ cơ bản
+- Web
+- Database: 
+- Cài đặt Wordpress, joomla
+- Cài đặt dịch vụ DNS
+- FTP
+- SAMBA
+- RAID, LVM
+- NTP
+
+
+
+## Nâng cao
+-  
