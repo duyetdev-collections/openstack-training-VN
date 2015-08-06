@@ -21,14 +21,17 @@
 #### Lệnh xem phiên bản OS, Kernel
 #### Lệnh về IP
 #### Lệnh về làm việc với ký tự và chuỗi
-
-
+#### Lệnh làm việc với ổ đĩa
+#### Lệnh làm việc với user
+#### Các lệnh về xử lý sự cố
 
 ### Lý thuyết
 - Giao thức PING
+- Giao thức HTTP
 - Giao thức DNS
 - Giao thức FTP
 - Giao thức DNS
+- Giao thức ARP
 
 
 ### Dịch vụ cơ bản
@@ -40,6 +43,7 @@
 - SAMBA
 - RAID, LVM
 - NTP
+- IPtables cơ bản
 
 
 
