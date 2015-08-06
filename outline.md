@@ -1,4 +1,4 @@
-# Khung chương trình 
+# I. Khung chương trình cơ bản 
 ## 1. Network
 ### TCP/IP, OSI
 - Mô hình OSI, vai trò từng layer
@@ -83,3 +83,9 @@ Sử dụng distro là Ubuntu 14.04
 - Slack
 - Trello
 
+# II. Khung chương trình phân mảng:
+## 1. Network
+## 2. Storage
+## 3. Virtualization
+## 4. Database
+## 5. Security
